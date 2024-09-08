@@ -1,6 +1,6 @@
 # DSA-Learning-with-own-content
 
-Here I've learnt these topics till now in DSA:
+Here these topic make me confident in DSA:
 
 1. Arrays and Strings
 2. Linked Lists
