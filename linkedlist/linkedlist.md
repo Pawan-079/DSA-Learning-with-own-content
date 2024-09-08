@@ -330,12 +330,6 @@ def insert(self, data):
 ## Conclusion
 
 This guide has covered Linked Lists from the basics to advanced operations, including Singly, Doubly, and Circular Linked Lists, as well as special algorithms like cycle detection, merging, and LRU cache implementation. With Python, linked lists provide a powerful tool for dynamic data storage and manipulation.
-```
-
-
-
-
-
 ---python
 
 ## Counting the Number of Nodes in a Linked List
