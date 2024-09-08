@@ -337,7 +337,7 @@ This guide has covered Linked Lists from the basics to advanced operations, incl
 
 
 
----
+---python
 
 ## Counting the Number of Nodes in a Linked List
 
